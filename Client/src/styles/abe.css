@@ -1,0 +1,17 @@
+.m1-1, .mx-1{
+    font-size: 18.5px !important;
+    transform: translateY(-2px) !important;
+    color: black !important;
+    font-weight: 600 !important;
+    padding: 5px 0px 0px 9px !important;
+    margin: 0px 0px 4px 0px !important;
+}
+
+.header a{
+    color: #000000;
+}
+
+.d-block small{
+    padding: 0px 0px 0px 1.5px !important;
+    font-weight: 600 !important;
+}

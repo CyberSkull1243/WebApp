@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/V-Network-WebApp/static/css/main.f61ae8bf.chunk.css",
+    "main.js": "/V-Network-WebApp/static/js/main.ff7857ca.chunk.js",
+    "main.js.map": "/V-Network-WebApp/static/js/main.ff7857ca.chunk.js.map",
+    "runtime-main.js": "/V-Network-WebApp/static/js/runtime-main.b810f77d.js",
+    "runtime-main.js.map": "/V-Network-WebApp/static/js/runtime-main.b810f77d.js.map",
+    "static/js/2.1934855e.chunk.js": "/V-Network-WebApp/static/js/2.1934855e.chunk.js",
+    "static/js/2.1934855e.chunk.js.map": "/V-Network-WebApp/static/js/2.1934855e.chunk.js.map",
+    "static/js/3.fddcfe8b.chunk.js": "/V-Network-WebApp/static/js/3.fddcfe8b.chunk.js",
+    "static/js/3.fddcfe8b.chunk.js.map": "/V-Network-WebApp/static/js/3.fddcfe8b.chunk.js.map",
+    "index.html": "/V-Network-WebApp/index.html",
+    "static/css/main.f61ae8bf.chunk.css.map": "/V-Network-WebApp/static/css/main.f61ae8bf.chunk.css.map",
+    "static/js/2.1934855e.chunk.js.LICENSE.txt": "/V-Network-WebApp/static/js/2.1934855e.chunk.js.LICENSE.txt",
+    "static/media/got-it-done-613.89a311f0.mp3": "/V-Network-WebApp/static/media/got-it-done-613.89a311f0.mp3",
+    "static/media/loading.gif": "/V-Network-WebApp/static/media/loading.10625dac.gif",
+    "static/media/ringring.278d7816.mp3": "/V-Network-WebApp/static/media/ringring.278d7816.mp3",
+    "static/media/send.fab9d966.svg": "/V-Network-WebApp/static/media/send.fab9d966.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b810f77d.js",
+    "static/js/2.1934855e.chunk.js",
+    "static/css/main.f61ae8bf.chunk.css",
+    "static/js/main.ff7857ca.chunk.js"
+  ]
+}

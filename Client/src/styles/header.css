@@ -1,0 +1,141 @@
+.header{
+    width: 100%;
+    min-height: 70px;
+    position: sticky;
+    top:0;
+    left: 0;
+    z-index: 2;
+    border: 1px solid rgb(0, 0, 0, .125);
+}
+.header .navbar{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    background: #fafff5d1 !important;
+    border: 0.1px solid #adacac;
+}
+
+.App{
+    background: #eef1ee !important;
+}
+
+.status{
+    border: 0.1px solid #adacac;
+}
+
+#search{
+    border: 0.1px solid #adacac;
+}
+
+.posts .card_header .card_name {
+    padding: 2px 0px 0px 11px !important;
+}
+
+.posts .card_body-content{
+    padding: 7px 31px 0px 29px !important;
+}
+
+.m1-1, .mx-1{
+    font-size: 18.5px !important;
+    transform: translateY(-2px) !important;
+    color: black !important;
+    font-weight: 600 !important;
+    padding: 5px 0px 0px 9px !important;
+    margin: 0px 0px 4px 0px !important;
+}
+
+.header a{
+    color: #000000;
+}
+
+.d-block small{
+    padding: 0px 0px 0px 1.5px !important;
+    font-weight: 600 !important;
+}
+
+.header .logo h1{
+    font-size: 2rem;
+} 
+
+/* ----------- Header Menu ---------- */
+.header .menu li{
+    opacity: 0.5;
+}
+.header .menu li.active{
+    opacity: 1;
+}
+.header .menu .material-icons{
+    font-size: 30px;
+}
+.header .menu .dropdown-menu{
+    position: absolute;
+    left: inherit;
+    right: 0;
+}
+.header .menu label{
+    cursor: pointer;
+}
+
+.header .menu .notify_length{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+/* ---------- Header Search -------- */
+.header .search_form{
+    position: relative;
+}
+.header .search_form #search{
+    background: #fafafa;
+    border: 1px solid #ddd;
+    min-width: 250px;
+    width: 100%;
+    outline: none;
+    text-indent: 5px;
+    border-radius: 3px;
+}
+.header .search_form .search_icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    pointer-events: none;
+}
+.header .search_form .search_icon .material-icons{
+    font-size: 14px;
+    transform: translateY(3px);
+}
+.header .search_form .close_search{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    cursor: pointer;
+    font-weight: 900;
+    color: crimson;
+}
+.header .search_form .users{
+    position: absolute;
+    width: 100%;
+    min-width: 250px;
+    background: #fafafa;
+    max-height: calc(100vh - 150px);
+    overflow: auto;
+    margin-top: 3px;
+}
+.header .search_form .loading{
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    width: 15px;
+    height: 15px;
+    transform: translateY(-50%);
+}
+
